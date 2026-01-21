@@ -1,5 +1,5 @@
 <h1 align="center">Hi, We are Stypz</h1>
-<h3 align="center">We are a VPS provider company and Frontend, Backend, Full Stack, Server-Sid developers</h3>
+<h3 align="center">We are a VPS provider company and Frontend, Backend, Full Stack, Server-Side developers</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=snitchbossdotcom&label=Profile%20views&color=0e75b6&style=flat" alt="snitchbossdotcom" /> </p>
 
