@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=snitchbossdotcom" alt="snitchbossdotcom" /></a> </p>
 
-- We are currently working on **Sentio and lonide**
+- We are currently working on **nothing for now**
 
 - Stypz link [Stypz](https://stypz.me)
 
